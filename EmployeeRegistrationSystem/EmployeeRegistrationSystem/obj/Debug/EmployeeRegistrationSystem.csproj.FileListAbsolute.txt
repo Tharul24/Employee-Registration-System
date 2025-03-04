@@ -1,0 +1,48 @@
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\bin\Debug\EmployeeRegistrationSystem.exe.config
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\bin\Debug\EmployeeRegistrationSystem.exe
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\bin\Debug\EmployeeRegistrationSystem.pdb
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Employee.resources
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Form1.resources
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Form2.resources
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Home.resources
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Login.resources
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.exe
+C:\Users\User\Desktop\New folder\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.pdb
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\bin\Debug\EmployeeRegistrationSystem.exe.config
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\bin\Debug\EmployeeRegistrationSystem.exe
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\bin\Debug\EmployeeRegistrationSystem.pdb
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Employee.resources
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Form1.resources
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Form2.resources
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Home.resources
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Login.resources
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.ViewEmployee.resources
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.exe
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.pdb
+C:\Users\User\Desktop\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Salary.resources
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\bin\Debug\EmployeeRegistrationSystem.exe.config
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\bin\Debug\EmployeeRegistrationSystem.exe
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\bin\Debug\EmployeeRegistrationSystem.pdb
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.csproj.AssemblyReference.cache
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Employee.resources
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Form1.resources
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Form2.resources
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Home.resources
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Login.resources
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Properties.Resources.resources
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.Salary.resources
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.ViewEmployee.resources
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.csproj.GenerateResource.cache
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.csproj.CoreCompileInputs.cache
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.exe
+F:\Esoft Metro Campus\New folder\HND Projects\EmployeeRegistrationSystem\EmployeeRegistrationSystem\obj\Debug\EmployeeRegistrationSystem.pdb
